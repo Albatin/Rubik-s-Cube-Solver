@@ -22,5 +22,5 @@ The program generates and outputs a sequence of moves that, when applied to the 
 
 
 
-Contributors: Erand Kurtaliqi, Elda Reçica, Adrian Sopi, Vlera Luma, Vesa Zhitia, Elma Ahmeti, Blinera Mehmeti, Albatin Totaj, Diellza Raçi, Gentrit Ademi.
+
 
